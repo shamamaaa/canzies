@@ -31,4 +31,4 @@ her cihazda ayrı ayrı `localStorage`'da tutulur.
 - **Görsel**: `can.png` dosyasını değiştir ya da `index.html` içindeki `<img>`
   etiketinin `src`'sini güncelle.
 - **Hayran mektupları / metinler**: `index.html` içindeki ilgili bölümleri
-  doğrudan düzenle — site tek bir HTML dosyası içinde (HTML/CSS/JS bir arada).
+  doğrudan düzenle. Site tek bir HTML dosyası içinde (HTML/CSS/JS bir arada).
